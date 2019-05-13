@@ -1,2 +1,1 @@
-# lanhaizhou
-蓝海周项目
+no name
